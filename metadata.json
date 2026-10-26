@@ -1,0 +1,6 @@
+{
+  "name": "AuraClinic Virtual-Office Clinical AI Portal",
+  "description": "Clinical multi-agent virtual office featuring 6 specialized healthcare AI agents for patient experience, complaint triage, hospital decision support, billing audit, and executive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
